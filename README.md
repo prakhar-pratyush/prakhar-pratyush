@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hi, I'm Prakhar 👋
+
+Software engineer at Zulip.
+
+All the code I write at Zulip is open source, and my work - including [pull requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged), [commits](https://github.com/zulip/zulip/commits?author=prakhar1144), and code reviews - is publicly accessible 🎉.
+
+Open source contributions:
+* `zulip/zulip` - [pull requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged)
+* `astral-sh/ruff` - [pull requests](https://github.com/astral-sh/ruff/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged%2Fopen)
+* `knadh/dns.toys` - [pull requests](https://github.com/knadh/dns.toys/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Aclosed)
+
+
 
 <!--
 **prakhar-pratyush/prakhar-pratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
