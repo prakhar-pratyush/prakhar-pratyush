@@ -8,7 +8,7 @@ Open source contributions:
 * `zulip/zulip` - [pull requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged)
 * `astral-sh/ruff` - [pull requests](https://github.com/astral-sh/ruff/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged%2Fopen)
 * `knadh/dns.toys` - [pull requests](https://github.com/knadh/dns.toys/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Aclosed)
-* [Google Summer of Code 2023](https://gist.github.com/prakhar1144/b53cd64e4babdff4de5c1acbeee1831e)
+* [`Google Summer of Code 2023`](https://gist.github.com/prakhar1144/b53cd64e4babdff4de5c1acbeee1831e)
 
 
 
