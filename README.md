@@ -1,6 +1,6 @@
 ### Hi, I'm Prakhar 👋
 
-Software engineer at Zulip.
+Software engineer, currently working at Zulip.
 
 All the code I write at Zulip is open source, and my work - including [pull requests](https://github.com/zulip/zulip/pulls?q=is%3Apr+author%3Aprakhar1144+is%3Amerged), [commits](https://github.com/zulip/zulip/commits?author=prakhar1144), and code reviews - is publicly accessible 🎉.
 
